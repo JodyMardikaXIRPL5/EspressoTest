@@ -1,8 +1,8 @@
 # TeaTime Code
 
-<p>Nama : Ocha Putri Perdana Prihatina 
-<br> Kelas : XII RPL 4
-<br> No Absen : 23
+<p>Nama : Jody Mardika
+<br> Kelas : XII RPL 5
+<br> No Absen : 12
 <br> SMK Telkom Malang
 </p>
 <br>
